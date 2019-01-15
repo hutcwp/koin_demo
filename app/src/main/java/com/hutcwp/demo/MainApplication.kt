@@ -9,6 +9,7 @@ import org.koin.android.ext.android.startKoin
 
 /**
  * Main Application
+ *
  */
 class MainApplication : Application() {
 
